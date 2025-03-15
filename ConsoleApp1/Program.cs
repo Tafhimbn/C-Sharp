@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+class Test{  // Class name should start from Capital Latter
+
+public static void Main(string[] args){  
+
+
+
+}
+
+}
