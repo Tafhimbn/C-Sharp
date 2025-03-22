@@ -15,3 +15,10 @@ class Test
             // Every C# statement ends with a semicolon ;.
     }
 }
+
+/*
+   C# is type safe object-oriented language.
+   Enable developers to build a variety of secure and robust applications like: Web Development (ASP.NET), Desktop Applications (Windows Forms, WPF), Game Development (Unity), Cloud & AI Applications
+   It was developed by microsoft within the .NET Framework  
+
+*/
